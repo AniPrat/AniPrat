@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 **Full Stack Engineer**
-
-Here are some ideas to get you started:
+Banglore, India
 
 - 🔭 I’m currently working on Springboot , APIs , AWS.
 - 🌱 I’m currently learning Devops tools , pipeline.
