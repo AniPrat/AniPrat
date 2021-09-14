@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<--
-**AniPrat/AniPrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Full Stack Engineer**
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Springboot , APIs , AWS.
